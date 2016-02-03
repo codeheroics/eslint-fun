@@ -3,5 +3,15 @@
   "description": "disallow or enforce trailing commas",
   "isRecommended": true,
   "isFixable": false,
-  "category": "Possible Errors"
+  "category": "Possible Errors",
+  "schema": [
+    {
+      "enum": [
+        "always",
+        "always-multiline",
+        "only-multiline",
+        "never"
+      ]
+    }
+  ]
 }

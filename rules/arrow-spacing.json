@@ -3,5 +3,19 @@
   "description": "require space before/after arrow function's arrow",
   "isRecommended": false,
   "isFixable": true,
-  "category": "ECMAScript 6"
+  "category": "ECMAScript 6",
+  "schema": [
+    {
+      "type": "object",
+      "properties": {
+        "before": {
+          "type": "boolean"
+        },
+        "after": {
+          "type": "boolean"
+        }
+      },
+      "additionalProperties": false
+    }
+  ]
 }

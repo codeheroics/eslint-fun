@@ -3,5 +3,10 @@
   "description": "enforce error handling in callbacks",
   "isRecommended": false,
   "isFixable": false,
-  "category": "Node.js and CommonJS"
+  "category": "Node.js and CommonJS",
+  "schema": [
+    {
+      "type": "string"
+    }
+  ]
 }

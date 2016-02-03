@@ -3,5 +3,6 @@
   "description": "disallow comments inline after code",
   "isRecommended": false,
   "isFixable": false,
-  "category": "Stylistic Issues"
+  "category": "Stylistic Issues",
+  "schema": []
 }

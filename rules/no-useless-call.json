@@ -3,5 +3,6 @@
   "description": "disallow unnecessary `.call()` and `.apply()`",
   "isRecommended": false,
   "isFixable": false,
-  "category": "Best Practices"
+  "category": "Best Practices",
+  "schema": []
 }

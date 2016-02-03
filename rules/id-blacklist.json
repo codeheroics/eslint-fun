@@ -3,5 +3,14 @@
   "description": "blacklist certain identifiers to prevent them being used",
   "isRecommended": false,
   "isFixable": false,
-  "category": "Stylistic Issues"
+  "category": "Stylistic Issues",
+  "schema": [
+    {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
+    }
+  ]
 }

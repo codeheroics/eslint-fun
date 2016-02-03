@@ -3,5 +3,13 @@
   "description": "enforce padding within blocks",
   "isRecommended": false,
   "isFixable": false,
-  "category": "Stylistic Issues"
+  "category": "Stylistic Issues",
+  "schema": [
+    {
+      "enum": [
+        "always",
+        "never"
+      ]
+    }
+  ]
 }

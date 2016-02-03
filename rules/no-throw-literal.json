@@ -3,5 +3,6 @@
   "description": "restrict what can be thrown as an exception",
   "isRecommended": false,
   "isFixable": false,
-  "category": "Best Practices"
+  "category": "Best Practices",
+  "schema": []
 }

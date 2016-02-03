@@ -3,5 +3,31 @@
   "description": "enforce spacing around the `*` in `yield*` expressions",
   "isRecommended": false,
   "isFixable": true,
-  "category": "ECMAScript 6"
+  "category": "ECMAScript 6",
+  "schema": [
+    {
+      "oneOf": [
+        {
+          "enum": [
+            "before",
+            "after",
+            "both",
+            "neither"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "before": {
+              "type": "boolean"
+            },
+            "after": {
+              "type": "boolean"
+            }
+          },
+          "additionalProperties": false
+        }
+      ]
+    }
+  ]
 }

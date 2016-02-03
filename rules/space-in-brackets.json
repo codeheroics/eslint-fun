@@ -4,5 +4,6 @@
   "isRecommended": false,
   "isFixable": false,
   "category": "Removed",
+  "schema": [],
   "replacement": "object-curly-spacing](object-curly-spacing.md) and [array-bracket-spacing"
 }

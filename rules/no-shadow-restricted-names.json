@@ -3,5 +3,6 @@
   "description": "disallow shadowing of names such as `arguments`",
   "isRecommended": false,
   "isFixable": false,
-  "category": "Variables"
+  "category": "Variables",
+  "schema": []
 }

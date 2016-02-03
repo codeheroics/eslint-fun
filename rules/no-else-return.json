@@ -3,5 +3,6 @@
   "description": "disallow `else` after a `return` in an `if`",
   "isRecommended": false,
   "isFixable": false,
-  "category": "Best Practices"
+  "category": "Best Practices",
+  "schema": []
 }

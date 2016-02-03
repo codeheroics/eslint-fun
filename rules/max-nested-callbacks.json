@@ -3,5 +3,11 @@
   "description": "specify the maximum depth callbacks can be nested",
   "isRecommended": false,
   "isFixable": false,
-  "category": "Stylistic Issues"
+  "category": "Stylistic Issues",
+  "schema": [
+    {
+      "type": "integer",
+      "minimum": 0
+    }
+  ]
 }

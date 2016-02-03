@@ -3,5 +3,22 @@
   "description": "enforce use of function declarations or expressions",
   "isRecommended": false,
   "isFixable": false,
-  "category": "Stylistic Issues"
+  "category": "Stylistic Issues",
+  "schema": [
+    {
+      "enum": [
+        "declaration",
+        "expression"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "allowArrowFunctions": {
+          "type": "boolean"
+        }
+      },
+      "additionalProperties": false
+    }
+  ]
 }

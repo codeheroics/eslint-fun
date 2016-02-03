@@ -3,5 +3,16 @@
   "description": "disallow declaring the same variable more than once",
   "isRecommended": true,
   "isFixable": false,
-  "category": "Best Practices"
+  "category": "Best Practices",
+  "schema": [
+    {
+      "type": "object",
+      "properties": {
+        "builtinGlobals": {
+          "type": "boolean"
+        }
+      },
+      "additionalProperties": false
+    }
+  ]
 }

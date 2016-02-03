@@ -3,5 +3,14 @@
   "description": "disallow mixed spaces and tabs for indentation",
   "isRecommended": true,
   "isFixable": false,
-  "category": "Stylistic Issues"
+  "category": "Stylistic Issues",
+  "schema": [
+    {
+      "enum": [
+        "smart-tabs",
+        true,
+        false
+      ]
+    }
+  ]
 }

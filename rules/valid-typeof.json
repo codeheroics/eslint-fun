@@ -3,5 +3,6 @@
   "description": "Ensure that the results of typeof are compared against a valid string",
   "isRecommended": true,
   "isFixable": false,
-  "category": "Possible Errors"
+  "category": "Possible Errors",
+  "schema": []
 }

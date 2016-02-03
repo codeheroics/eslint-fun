@@ -3,5 +3,14 @@
   "description": "restrict usage of specified node imports",
   "isRecommended": false,
   "isFixable": false,
-  "category": "Node.js and CommonJS"
+  "category": "Node.js and CommonJS",
+  "schema": [
+    {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
+    }
+  ]
 }

@@ -6,9 +6,7 @@
   "author": "Hugo Agbonon",
   "license": "MIT",
   "dependencies": {
+    "eslint": "^2.0.0-rc.0",
     "request": "^2.69.0"
-  },
-  "devDependencies": {
-    "eslint": "^1.10.3"
   }
 }

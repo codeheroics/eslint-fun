@@ -3,5 +3,6 @@
   "description": "disallow the catch clause parameter name being the same as a variable in the outer scope",
   "isRecommended": false,
   "isFixable": false,
-  "category": "Variables"
+  "category": "Variables",
+  "schema": []
 }

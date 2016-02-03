@@ -3,5 +3,6 @@
   "description": "disallow comparisons to null without a type-checking operator",
   "isRecommended": false,
   "isFixable": false,
-  "category": "Best Practices"
+  "category": "Best Practices",
+  "schema": []
 }

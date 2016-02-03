@@ -3,5 +3,13 @@
   "description": "enforces consistent newlines before or after dots",
   "isRecommended": false,
   "isFixable": false,
-  "category": "Best Practices"
+  "category": "Best Practices",
+  "schema": [
+    {
+      "enum": [
+        "object",
+        "property"
+      ]
+    }
+  ]
 }

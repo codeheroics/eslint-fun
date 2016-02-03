@@ -3,5 +3,6 @@
   "description": "disallow nested ternary expressions",
   "isRecommended": false,
   "isFixable": false,
-  "category": "Stylistic Issues"
+  "category": "Stylistic Issues",
+  "schema": []
 }

@@ -3,5 +3,21 @@
   "description": "disallow use of `console`",
   "isRecommended": true,
   "isFixable": false,
-  "category": "Possible Errors"
+  "category": "Possible Errors",
+  "schema": [
+    {
+      "type": "object",
+      "properties": {
+        "allow": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "minItems": 1,
+          "uniqueItems": true
+        }
+      },
+      "additionalProperties": false
+    }
+  ]
 }

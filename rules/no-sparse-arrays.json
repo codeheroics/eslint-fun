@@ -3,5 +3,6 @@
   "description": "disallow sparse arrays",
   "isRecommended": true,
   "isFixable": false,
-  "category": "Possible Errors"
+  "category": "Possible Errors",
+  "schema": []
 }

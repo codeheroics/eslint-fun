@@ -3,5 +3,19 @@
   "description": "Enforces getter/setter pairs in objects",
   "isRecommended": false,
   "isFixable": false,
-  "category": "Best Practices"
+  "category": "Best Practices",
+  "schema": [
+    {
+      "type": "object",
+      "properties": {
+        "getWithoutSet": {
+          "type": "boolean"
+        },
+        "setWithoutGet": {
+          "type": "boolean"
+        }
+      },
+      "additionalProperties": false
+    }
+  ]
 }

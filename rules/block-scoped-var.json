@@ -3,5 +3,6 @@
   "description": "treat `var` statements as if they were block scoped",
   "isRecommended": false,
   "isFixable": false,
-  "category": "Best Practices"
+  "category": "Best Practices",
+  "schema": []
 }

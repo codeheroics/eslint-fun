@@ -3,5 +3,6 @@
   "description": "disallow modifying variables that are declared using `const`",
   "isRecommended": true,
   "isFixable": false,
-  "category": "ECMAScript 6"
+  "category": "ECMAScript 6",
+  "schema": []
 }

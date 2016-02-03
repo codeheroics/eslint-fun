@@ -3,5 +3,6 @@
   "description": "disallow unnecessary labels",
   "isRecommended": false,
   "isFixable": false,
-  "category": "Best Practices"
+  "category": "Best Practices",
+  "schema": []
 }

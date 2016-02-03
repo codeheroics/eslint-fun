@@ -3,5 +3,22 @@
   "description": "disallow dangling underscores in identifiers",
   "isRecommended": false,
   "isFixable": false,
-  "category": "Stylistic Issues"
+  "category": "Stylistic Issues",
+  "schema": [
+    {
+      "type": "object",
+      "properties": {
+        "allow": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "allowAfterThis": {
+          "type": "boolean"
+        }
+      },
+      "additionalProperties": false
+    }
+  ]
 }

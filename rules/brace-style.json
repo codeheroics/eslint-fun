@@ -3,5 +3,23 @@
   "description": "enforce one true brace style",
   "isRecommended": false,
   "isFixable": false,
-  "category": "Stylistic Issues"
+  "category": "Stylistic Issues",
+  "schema": [
+    {
+      "enum": [
+        "1tbs",
+        "stroustrup",
+        "allman"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "allowSingleLine": {
+          "type": "boolean"
+        }
+      },
+      "additionalProperties": false
+    }
+  ]
 }

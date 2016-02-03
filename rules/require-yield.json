@@ -3,5 +3,6 @@
   "description": "disallow generator functions that do not have `yield`",
   "isRecommended": false,
   "isFixable": false,
-  "category": "ECMAScript 6"
+  "category": "ECMAScript 6",
+  "schema": []
 }

@@ -3,5 +3,13 @@
   "description": "require or disallow padding inside computed properties",
   "isRecommended": false,
   "isFixable": true,
-  "category": "Stylistic Issues"
+  "category": "Stylistic Issues",
+  "schema": [
+    {
+      "enum": [
+        "always",
+        "never"
+      ]
+    }
+  ]
 }

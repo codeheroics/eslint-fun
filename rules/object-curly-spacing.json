@@ -3,5 +3,25 @@
   "description": "require or disallow padding inside curly braces",
   "isRecommended": false,
   "isFixable": true,
-  "category": "Stylistic Issues"
+  "category": "Stylistic Issues",
+  "schema": [
+    {
+      "enum": [
+        "always",
+        "never"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "arraysInObjects": {
+          "type": "boolean"
+        },
+        "objectsInObjects": {
+          "type": "boolean"
+        }
+      },
+      "additionalProperties": false
+    }
+  ]
 }

@@ -3,5 +3,48 @@
   "description": "require method and property shorthand syntax for object literals",
   "isRecommended": false,
   "isFixable": false,
-  "category": "ECMAScript 6"
+  "category": "ECMAScript 6",
+  "schema": [
+    {
+      "anyOf": [
+        {
+          "type": "array",
+          "items": [
+            {
+              "enum": [
+                "always",
+                "methods",
+                "properties",
+                "never"
+              ]
+            }
+          ],
+          "minItems": 0,
+          "maxItems": 1
+        },
+        {
+          "type": "array",
+          "items": [
+            {
+              "enum": [
+                "always",
+                "methods"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "ignoreConstructors": {
+                  "type": "boolean"
+                }
+              },
+              "additionalProperties": false
+            }
+          ],
+          "minItems": 0,
+          "maxItems": 2
+        }
+      ]
+    }
+  ]
 }

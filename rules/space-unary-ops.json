@@ -3,5 +3,19 @@
   "description": "require or disallow spaces before/after unary operators",
   "isRecommended": false,
   "isFixable": true,
-  "category": "Stylistic Issues"
+  "category": "Stylistic Issues",
+  "schema": [
+    {
+      "type": "object",
+      "properties": {
+        "words": {
+          "type": "boolean"
+        },
+        "nonwords": {
+          "type": "boolean"
+        }
+      },
+      "additionalProperties": false
+    }
+  ]
 }

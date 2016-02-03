@@ -3,5 +3,6 @@
   "description": "enforce `require()` on top-level module scope",
   "isRecommended": false,
   "isFixable": false,
-  "category": "Node.js and CommonJS"
+  "category": "Node.js and CommonJS",
+  "schema": []
 }

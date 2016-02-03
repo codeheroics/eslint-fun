@@ -3,5 +3,6 @@
   "description": "disallow use of octal escape sequences in string literals, such as `var foo = \"Copyright \\251\";`",
   "isRecommended": false,
   "isFixable": false,
-  "category": "Best Practices"
+  "category": "Best Practices",
+  "schema": []
 }

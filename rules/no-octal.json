@@ -3,5 +3,6 @@
   "description": "disallow use of octal literals",
   "isRecommended": true,
   "isFixable": false,
-  "category": "Best Practices"
+  "category": "Best Practices",
+  "schema": []
 }

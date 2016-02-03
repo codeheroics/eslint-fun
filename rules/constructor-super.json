@@ -3,5 +3,6 @@
   "description": "verify calls of `super()` in constructors",
   "isRecommended": true,
   "isFixable": false,
-  "category": "ECMAScript 6"
+  "category": "ECMAScript 6",
+  "schema": []
 }

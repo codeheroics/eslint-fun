@@ -3,5 +3,6 @@
   "description": "disallow use of the `with` statement",
   "isRecommended": false,
   "isFixable": false,
-  "category": "Best Practices"
+  "category": "Best Practices",
+  "schema": []
 }

@@ -3,5 +3,16 @@
   "description": "disallow use of `eval()`",
   "isRecommended": false,
   "isFixable": false,
-  "category": "Best Practices"
+  "category": "Best Practices",
+  "schema": [
+    {
+      "type": "object",
+      "properties": {
+        "allowIndirect": {
+          "type": "boolean"
+        }
+      },
+      "additionalProperties": false
+    }
+  ]
 }

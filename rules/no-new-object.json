@@ -3,5 +3,6 @@
   "description": "disallow the use of the `Object` constructor",
   "isRecommended": false,
   "isFixable": false,
-  "category": "Stylistic Issues"
+  "category": "Stylistic Issues",
+  "schema": []
 }

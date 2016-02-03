@@ -3,5 +3,16 @@
   "description": "sort variables within the same declaration block",
   "isRecommended": false,
   "isFixable": false,
-  "category": "Stylistic Issues"
+  "category": "Stylistic Issues",
+  "schema": [
+    {
+      "type": "object",
+      "properties": {
+        "ignoreCase": {
+          "type": "boolean"
+        }
+      },
+      "additionalProperties": false
+    }
+  ]
 }

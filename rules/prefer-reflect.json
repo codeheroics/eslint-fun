@@ -3,5 +3,31 @@
   "description": "suggest using Reflect methods where applicable",
   "isRecommended": false,
   "isFixable": false,
-  "category": "ECMAScript 6"
+  "category": "ECMAScript 6",
+  "schema": [
+    {
+      "type": "object",
+      "properties": {
+        "exceptions": {
+          "type": "array",
+          "items": {
+            "enum": [
+              "apply",
+              "call",
+              "delete",
+              "defineProperty",
+              "getOwnPropertyDescriptor",
+              "getPrototypeOf",
+              "setPrototypeOf",
+              "isExtensible",
+              "getOwnPropertyNames",
+              "preventExtensions"
+            ]
+          },
+          "uniqueItems": true
+        }
+      },
+      "additionalProperties": false
+    }
+  ]
 }

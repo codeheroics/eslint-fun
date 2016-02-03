@@ -3,5 +3,6 @@
   "description": "disallow use of constant expressions in conditions",
   "isRecommended": true,
   "isFixable": false,
-  "category": "Possible Errors"
+  "category": "Possible Errors",
+  "schema": []
 }

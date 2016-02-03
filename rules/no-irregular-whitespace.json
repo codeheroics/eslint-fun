@@ -3,5 +3,6 @@
   "description": "disallow irregular whitespace outside of strings and comments",
   "isRecommended": true,
   "isFixable": false,
-  "category": "Possible Errors"
+  "category": "Possible Errors",
+  "schema": []
 }

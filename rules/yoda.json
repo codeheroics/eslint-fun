@@ -3,5 +3,25 @@
   "description": "require or disallow Yoda conditions",
   "isRecommended": false,
   "isFixable": false,
-  "category": "Best Practices"
+  "category": "Best Practices",
+  "schema": [
+    {
+      "enum": [
+        "always",
+        "never"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "exceptRange": {
+          "type": "boolean"
+        },
+        "onlyEquality": {
+          "type": "boolean"
+        }
+      },
+      "additionalProperties": false
+    }
+  ]
 }

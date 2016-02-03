@@ -3,5 +3,19 @@
   "description": "disallow usage of expressions in statement position",
   "isRecommended": false,
   "isFixable": false,
-  "category": "Best Practices"
+  "category": "Best Practices",
+  "schema": [
+    {
+      "type": "object",
+      "properties": {
+        "allowShortCircuit": {
+          "type": "boolean"
+        },
+        "allowTernary": {
+          "type": "boolean"
+        }
+      },
+      "additionalProperties": false
+    }
+  ]
 }

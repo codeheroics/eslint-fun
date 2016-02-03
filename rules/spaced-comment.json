@@ -3,5 +3,67 @@
   "description": "require or disallow a space immediately following the `//` or `/*` in a comment",
   "isRecommended": false,
   "isFixable": false,
-  "category": "Stylistic Issues"
+  "category": "Stylistic Issues",
+  "schema": [
+    {
+      "enum": [
+        "always",
+        "never"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "exceptions": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "markers": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "line": {
+          "type": "object",
+          "properties": {
+            "exceptions": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "markers": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            }
+          },
+          "additionalProperties": false
+        },
+        "block": {
+          "type": "object",
+          "properties": {
+            "exceptions": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "markers": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            }
+          },
+          "additionalProperties": false
+        }
+      },
+      "additionalProperties": false
+    }
+  ]
 }

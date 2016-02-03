@@ -3,5 +3,6 @@
   "description": "disallow double-negation boolean casts in a boolean context",
   "isRecommended": true,
   "isFixable": false,
-  "category": "Possible Errors"
+  "category": "Possible Errors",
+  "schema": []
 }

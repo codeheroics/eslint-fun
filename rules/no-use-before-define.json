@@ -3,5 +3,28 @@
   "description": "disallow use of variables before they are defined",
   "isRecommended": false,
   "isFixable": false,
-  "category": "Variables"
+  "category": "Variables",
+  "schema": [
+    {
+      "oneOf": [
+        {
+          "enum": [
+            "nofunc"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "functions": {
+              "type": "boolean"
+            },
+            "classes": {
+              "type": "boolean"
+            }
+          },
+          "additionalProperties": false
+        }
+      ]
+    }
+  ]
 }

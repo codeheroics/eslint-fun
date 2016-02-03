@@ -3,5 +3,6 @@
   "description": "require `let` or `const` instead of `var`",
   "isRecommended": false,
   "isFixable": false,
-  "category": "ECMAScript 6"
+  "category": "ECMAScript 6",
+  "schema": []
 }

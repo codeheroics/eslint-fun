@@ -3,5 +3,6 @@
   "description": "disallow negated conditions",
   "isRecommended": false,
   "isFixable": false,
-  "category": "Stylistic Issues"
+  "category": "Stylistic Issues",
+  "schema": []
 }

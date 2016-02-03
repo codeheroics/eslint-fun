@@ -3,5 +3,14 @@
   "description": "require immediate function invocation to be wrapped in parentheses",
   "isRecommended": false,
   "isFixable": false,
-  "category": "Best Practices"
+  "category": "Best Practices",
+  "schema": [
+    {
+      "enum": [
+        "outside",
+        "inside",
+        "any"
+      ]
+    }
+  ]
 }

@@ -3,5 +3,20 @@
   "description": "disallow adding to native types",
   "isRecommended": false,
   "isFixable": false,
-  "category": "Best Practices"
+  "category": "Best Practices",
+  "schema": [
+    {
+      "type": "object",
+      "properties": {
+        "exceptions": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "uniqueItems": true
+        }
+      },
+      "additionalProperties": false
+    }
+  ]
 }

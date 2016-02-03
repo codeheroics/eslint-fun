@@ -3,5 +3,19 @@
   "description": "encourages use of dot notation whenever possible",
   "isRecommended": false,
   "isFixable": false,
-  "category": "Best Practices"
+  "category": "Best Practices",
+  "schema": [
+    {
+      "type": "object",
+      "properties": {
+        "allowKeywords": {
+          "type": "boolean"
+        },
+        "allowPattern": {
+          "type": "string"
+        }
+      },
+      "additionalProperties": false
+    }
+  ]
 }

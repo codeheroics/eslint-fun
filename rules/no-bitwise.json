@@ -3,5 +3,37 @@
   "description": "disallow use of bitwise operators",
   "isRecommended": false,
   "isFixable": false,
-  "category": "Stylistic Issues"
+  "category": "Stylistic Issues",
+  "schema": [
+    {
+      "type": "object",
+      "properties": {
+        "allow": {
+          "type": "array",
+          "items": {
+            "enum": [
+              "^",
+              "|",
+              "&",
+              "<<",
+              ">>",
+              ">>>",
+              "^=",
+              "|=",
+              "&=",
+              "<<=",
+              ">>=",
+              ">>>=",
+              "~"
+            ]
+          },
+          "uniqueItems": true
+        },
+        "int32Hint": {
+          "type": "boolean"
+        }
+      },
+      "additionalProperties": false
+    }
+  ]
 }

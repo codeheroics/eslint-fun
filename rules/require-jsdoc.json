@@ -3,5 +3,28 @@
   "description": "Require JSDoc comment",
   "isRecommended": false,
   "isFixable": false,
-  "category": "Stylistic Issues"
+  "category": "Stylistic Issues",
+  "schema": [
+    {
+      "type": "object",
+      "properties": {
+        "require": {
+          "type": "object",
+          "properties": {
+            "ClassDeclaration": {
+              "type": "boolean"
+            },
+            "MethodDefinition": {
+              "type": "boolean"
+            },
+            "FunctionDeclaration": {
+              "type": "boolean"
+            }
+          },
+          "additionalProperties": false
+        }
+      },
+      "additionalProperties": false
+    }
+  ]
 }

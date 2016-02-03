@@ -3,5 +3,13 @@
   "description": "disallow mixed 'LF' and 'CRLF' as linebreaks",
   "isRecommended": false,
   "isFixable": false,
-  "category": "Stylistic Issues"
+  "category": "Stylistic Issues",
+  "schema": [
+    {
+      "enum": [
+        "unix",
+        "windows"
+      ]
+    }
+  ]
 }

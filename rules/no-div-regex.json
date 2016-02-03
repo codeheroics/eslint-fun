@@ -3,5 +3,6 @@
   "description": "disallow division operators explicitly at beginning of regular expression",
   "isRecommended": false,
   "isFixable": false,
-  "category": "Best Practices"
+  "category": "Best Practices",
+  "schema": []
 }

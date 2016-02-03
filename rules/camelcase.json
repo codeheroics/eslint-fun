@@ -3,5 +3,19 @@
   "description": "require camel case names",
   "isRecommended": false,
   "isFixable": false,
-  "category": "Stylistic Issues"
+  "category": "Stylistic Issues",
+  "schema": [
+    {
+      "type": "object",
+      "properties": {
+        "properties": {
+          "enum": [
+            "always",
+            "never"
+          ]
+        }
+      },
+      "additionalProperties": false
+    }
+  ]
 }

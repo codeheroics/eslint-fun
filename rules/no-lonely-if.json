@@ -3,5 +3,6 @@
   "description": "disallow `if` as the only statement in an `else` block",
   "isRecommended": false,
   "isFixable": false,
-  "category": "Stylistic Issues"
+  "category": "Stylistic Issues",
+  "schema": []
 }

@@ -3,5 +3,6 @@
   "description": "disallow use of synchronous methods",
   "isRecommended": false,
   "isFixable": false,
-  "category": "Node.js and CommonJS"
+  "category": "Node.js and CommonJS",
+  "schema": []
 }

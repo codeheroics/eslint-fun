@@ -3,5 +3,19 @@
   "description": "specify whether backticks, double or single quotes should be used",
   "isRecommended": false,
   "isFixable": true,
-  "category": "Stylistic Issues"
+  "category": "Stylistic Issues",
+  "schema": [
+    {
+      "enum": [
+        "single",
+        "double",
+        "backtick"
+      ]
+    },
+    {
+      "enum": [
+        "avoid-escape"
+      ]
+    }
+  ]
 }

@@ -3,5 +3,6 @@
   "description": "disallow string concatenation with `__dirname` and `__filename`",
   "isRecommended": false,
   "isFixable": false,
-  "category": "Node.js and CommonJS"
+  "category": "Node.js and CommonJS",
+  "schema": []
 }

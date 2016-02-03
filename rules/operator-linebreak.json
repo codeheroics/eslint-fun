@@ -3,5 +3,35 @@
   "description": "enforce operators to be placed before or after line breaks",
   "isRecommended": false,
   "isFixable": false,
-  "category": "Stylistic Issues"
+  "category": "Stylistic Issues",
+  "schema": [
+    {
+      "enum": [
+        "after",
+        "before",
+        "none",
+        null
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "overrides": {
+          "type": "object",
+          "properties": {
+            "anyOf": {
+              "type": "string",
+              "enum": [
+                "after",
+                "before",
+                "none",
+                "ignore"
+              ]
+            }
+          }
+        }
+      },
+      "additionalProperties": false
+    }
+  ]
 }

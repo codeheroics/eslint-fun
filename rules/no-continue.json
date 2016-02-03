@@ -3,5 +3,6 @@
   "description": "disallow use of the `continue` statement",
   "isRecommended": false,
   "isFixable": false,
-  "category": "Stylistic Issues"
+  "category": "Stylistic Issues",
+  "schema": []
 }

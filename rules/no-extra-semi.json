@@ -3,5 +3,6 @@
   "description": "disallow unnecessary semicolons",
   "isRecommended": true,
   "isFixable": true,
-  "category": "Possible Errors"
+  "category": "Possible Errors",
+  "schema": []
 }

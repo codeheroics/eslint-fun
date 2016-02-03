@@ -3,5 +3,6 @@
   "description": "disallow `this` keywords outside of classes or class-like objects",
   "isRecommended": false,
   "isFixable": false,
-  "category": "Best Practices"
+  "category": "Best Practices",
+  "schema": []
 }

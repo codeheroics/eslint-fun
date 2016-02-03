@@ -3,5 +3,6 @@
   "description": "disallow `var` and named functions in global scope",
   "isRecommended": false,
   "isFixable": false,
-  "category": "Best Practices"
+  "category": "Best Practices",
+  "schema": []
 }

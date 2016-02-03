@@ -3,5 +3,13 @@
   "description": "disallow use of assignment in `return` statement",
   "isRecommended": false,
   "isFixable": false,
-  "category": "Best Practices"
+  "category": "Best Practices",
+  "schema": [
+    {
+      "enum": [
+        "except-parens",
+        "always"
+      ]
+    }
+  ]
 }

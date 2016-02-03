@@ -3,5 +3,15 @@
   "description": "require effective use of strict mode directives",
   "isRecommended": false,
   "isFixable": false,
-  "category": "Strict Mode"
+  "category": "Strict Mode",
+  "schema": [
+    {
+      "enum": [
+        "never",
+        "global",
+        "function",
+        "safe"
+      ]
+    }
+  ]
 }

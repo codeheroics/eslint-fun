@@ -3,5 +3,33 @@
   "description": "sort import declarations within module",
   "isRecommended": false,
   "isFixable": false,
-  "category": "Stylistic Issues"
+  "category": "Stylistic Issues",
+  "schema": [
+    {
+      "type": "object",
+      "properties": {
+        "ignoreCase": {
+          "type": "boolean"
+        },
+        "memberSyntaxSortOrder": {
+          "type": "array",
+          "items": {
+            "enum": [
+              "none",
+              "all",
+              "multiple",
+              "single"
+            ]
+          },
+          "uniqueItems": true,
+          "minItems": 4,
+          "maxItems": 4
+        },
+        "ignoreMemberSort": {
+          "type": "boolean"
+        }
+      },
+      "additionalProperties": false
+    }
+  ]
 }

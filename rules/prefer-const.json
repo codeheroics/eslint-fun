@@ -3,5 +3,6 @@
   "description": "suggest using `const` declaration for variables that are never modified after declared",
   "isRecommended": false,
   "isFixable": false,
-  "category": "ECMAScript 6"
+  "category": "ECMAScript 6",
+  "schema": []
 }

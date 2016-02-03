@@ -3,5 +3,28 @@
   "description": "enforce spacing inside array brackets",
   "isRecommended": false,
   "isFixable": true,
-  "category": "Stylistic Issues"
+  "category": "Stylistic Issues",
+  "schema": [
+    {
+      "enum": [
+        "always",
+        "never"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "singleValue": {
+          "type": "boolean"
+        },
+        "objectsInArrays": {
+          "type": "boolean"
+        },
+        "arraysInArrays": {
+          "type": "boolean"
+        }
+      },
+      "additionalProperties": false
+    }
+  ]
 }

@@ -3,5 +3,6 @@
   "description": "disallow invalid regular expression strings in the `RegExp` constructor",
   "isRecommended": true,
   "isFixable": false,
-  "category": "Possible Errors"
+  "category": "Possible Errors",
+  "schema": []
 }

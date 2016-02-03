@@ -3,5 +3,13 @@
   "description": "enforce spacing around embedded expressions of template strings",
   "isRecommended": false,
   "isFixable": true,
-  "category": "ECMAScript 6"
+  "category": "ECMAScript 6",
+  "schema": [
+    {
+      "enum": [
+        "always",
+        "never"
+      ]
+    }
+  ]
 }

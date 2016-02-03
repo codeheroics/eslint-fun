@@ -3,5 +3,16 @@
   "description": "disallow empty statements",
   "isRecommended": true,
   "isFixable": false,
-  "category": "Possible Errors"
+  "category": "Possible Errors",
+  "schema": [
+    {
+      "type": "object",
+      "properties": {
+        "methods": {
+          "type": "boolean"
+        }
+      },
+      "additionalProperties": false
+    }
+  ]
 }

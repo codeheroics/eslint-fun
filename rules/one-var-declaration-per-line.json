@@ -3,5 +3,13 @@
   "description": "require or disallow an newline around variable declarations",
   "isRecommended": false,
   "isFixable": false,
-  "category": "Stylistic Issues"
+  "category": "Stylistic Issues",
+  "schema": [
+    {
+      "enum": [
+        "always",
+        "initializations"
+      ]
+    }
+  ]
 }

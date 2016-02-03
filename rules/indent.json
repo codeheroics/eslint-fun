@@ -3,5 +3,55 @@
   "description": "specify tab or space width for your code",
   "isRecommended": false,
   "isFixable": true,
-  "category": "Stylistic Issues"
+  "category": "Stylistic Issues",
+  "schema": [
+    {
+      "oneOf": [
+        {
+          "enum": [
+            "tab"
+          ]
+        },
+        {
+          "type": "integer",
+          "minimum": 0
+        }
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "SwitchCase": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "VariableDeclarator": {
+          "oneOf": [
+            {
+              "type": "integer",
+              "minimum": 0
+            },
+            {
+              "type": "object",
+              "properties": {
+                "var": {
+                  "type": "integer",
+                  "minimum": 0
+                },
+                "let": {
+                  "type": "integer",
+                  "minimum": 0
+                },
+                "const": {
+                  "type": "integer",
+                  "minimum": 0
+                }
+              }
+            }
+          ]
+        }
+      },
+      "additionalProperties": false
+    }
+  ]
 }

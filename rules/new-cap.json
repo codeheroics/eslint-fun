@@ -3,5 +3,34 @@
   "description": "require a capital letter for constructors",
   "isRecommended": false,
   "isFixable": false,
-  "category": "Stylistic Issues"
+  "category": "Stylistic Issues",
+  "schema": [
+    {
+      "type": "object",
+      "properties": {
+        "newIsCap": {
+          "type": "boolean"
+        },
+        "capIsNew": {
+          "type": "boolean"
+        },
+        "newIsCapExceptions": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "capIsNewExceptions": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "properties": {
+          "type": "boolean"
+        }
+      },
+      "additionalProperties": false
+    }
+  ]
 }

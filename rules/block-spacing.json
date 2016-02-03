@@ -3,5 +3,13 @@
   "description": "disallow or enforce spaces inside of single line blocks",
   "isRecommended": false,
   "isFixable": true,
-  "category": "Stylistic Issues"
+  "category": "Stylistic Issues",
+  "schema": [
+    {
+      "enum": [
+        "always",
+        "never"
+      ]
+    }
+  ]
 }

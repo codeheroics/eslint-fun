@@ -3,5 +3,6 @@
   "description": "disallow use of the comma operator",
   "isRecommended": false,
   "isFixable": false,
-  "category": "Best Practices"
+  "category": "Best Practices",
+  "schema": []
 }

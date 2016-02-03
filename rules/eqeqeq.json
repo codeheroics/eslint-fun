@@ -3,5 +3,13 @@
   "description": "require the use of `===` and `!==`",
   "isRecommended": false,
   "isFixable": false,
-  "category": "Best Practices"
+  "category": "Best Practices",
+  "schema": [
+    {
+      "enum": [
+        "smart",
+        "allow-null"
+      ]
+    }
+  ]
 }

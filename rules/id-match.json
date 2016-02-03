@@ -3,5 +3,18 @@
   "description": "require identifiers to match the provided regular expression",
   "isRecommended": false,
   "isFixable": false,
-  "category": "Stylistic Issues"
+  "category": "Stylistic Issues",
+  "schema": [
+    {
+      "type": "string"
+    },
+    {
+      "type": "object",
+      "properties": {
+        "properties": {
+          "type": "boolean"
+        }
+      }
+    }
+  ]
 }

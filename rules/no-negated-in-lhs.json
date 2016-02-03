@@ -3,5 +3,6 @@
   "description": "disallow negation of the left operand of an `in` expression",
   "isRecommended": true,
   "isFixable": false,
-  "category": "Possible Errors"
+  "category": "Possible Errors",
+  "schema": []
 }

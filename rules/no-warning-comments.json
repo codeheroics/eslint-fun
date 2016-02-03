@@ -3,5 +3,25 @@
   "description": "disallow usage of configurable warning terms in comments - e.g. `TODO` or `FIXME`",
   "isRecommended": false,
   "isFixable": false,
-  "category": "Best Practices"
+  "category": "Best Practices",
+  "schema": [
+    {
+      "type": "object",
+      "properties": {
+        "terms": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "location": {
+          "enum": [
+            "start",
+            "anywhere"
+          ]
+        }
+      },
+      "additionalProperties": false
+    }
+  ]
 }

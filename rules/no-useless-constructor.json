@@ -3,5 +3,6 @@
   "description": "disallow unnecessary constructor",
   "isRecommended": false,
   "isFixable": false,
-  "category": "ECMAScript 6"
+  "category": "ECMAScript 6",
+  "schema": []
 }

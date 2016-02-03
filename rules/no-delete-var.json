@@ -3,5 +3,6 @@
   "description": "disallow deletion of variables",
   "isRecommended": true,
   "isFixable": false,
-  "category": "Variables"
+  "category": "Variables",
+  "schema": []
 }

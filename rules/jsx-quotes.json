@@ -3,5 +3,13 @@
   "description": "specify whether double or single quotes should be used in JSX attributes",
   "isRecommended": false,
   "isFixable": true,
-  "category": "Stylistic Issues"
+  "category": "Stylistic Issues",
+  "schema": [
+    {
+      "enum": [
+        "prefer-single",
+        "prefer-double"
+      ]
+    }
+  ]
 }

@@ -3,5 +3,6 @@
   "description": "require declaration of all vars at the top of their containing scope",
   "isRecommended": false,
   "isFixable": false,
-  "category": "Best Practices"
+  "category": "Best Practices",
+  "schema": []
 }

@@ -3,5 +3,6 @@
   "description": "disallows creating new instances of `String`,`Number`, and `Boolean`",
   "isRecommended": false,
   "isFixable": false,
-  "category": "Best Practices"
+  "category": "Best Practices",
+  "schema": []
 }

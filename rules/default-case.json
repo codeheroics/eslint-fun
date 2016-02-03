@@ -3,5 +3,6 @@
   "description": "require `default` case in `switch` statements",
   "isRecommended": false,
   "isFixable": false,
-  "category": "Best Practices"
+  "category": "Best Practices",
+  "schema": []
 }

@@ -3,5 +3,6 @@
   "description": "disallow use of undefined when initializing variables",
   "isRecommended": false,
   "isFixable": false,
-  "category": "Variables"
+  "category": "Variables",
+  "schema": []
 }

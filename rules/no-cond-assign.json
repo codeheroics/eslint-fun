@@ -3,5 +3,13 @@
   "description": "disallow assignment in conditional expressions",
   "isRecommended": true,
   "isFixable": false,
-  "category": "Possible Errors"
+  "category": "Possible Errors",
+  "schema": [
+    {
+      "enum": [
+        "except-parens",
+        "always"
+      ]
+    }
+  ]
 }

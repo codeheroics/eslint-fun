@@ -3,5 +3,6 @@
   "description": "disallow assigning to the exception in a `catch` block",
   "isRecommended": true,
   "isFixable": false,
-  "category": "Possible Errors"
+  "category": "Possible Errors",
+  "schema": []
 }

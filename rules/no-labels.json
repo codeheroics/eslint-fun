@@ -3,5 +3,19 @@
   "description": "disallow use of labeled statements",
   "isRecommended": false,
   "isFixable": false,
-  "category": "Best Practices"
+  "category": "Best Practices",
+  "schema": [
+    {
+      "type": "object",
+      "properties": {
+        "allowLoop": {
+          "type": "boolean"
+        },
+        "allowSwitch": {
+          "type": "boolean"
+        }
+      },
+      "additionalProperties": false
+    }
+  ]
 }

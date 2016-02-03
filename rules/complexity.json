@@ -3,5 +3,11 @@
   "description": "specify the maximum cyclomatic complexity allowed in a program",
   "isRecommended": false,
   "isFixable": false,
-  "category": "Best Practices"
+  "category": "Best Practices",
+  "schema": [
+    {
+      "type": "integer",
+      "minimum": 0
+    }
+  ]
 }

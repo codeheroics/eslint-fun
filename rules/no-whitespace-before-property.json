@@ -3,5 +3,6 @@
   "description": "disallow whitespace before properties",
   "isRecommended": false,
   "isFixable": false,
-  "category": "Stylistic Issues"
+  "category": "Stylistic Issues",
+  "schema": []
 }

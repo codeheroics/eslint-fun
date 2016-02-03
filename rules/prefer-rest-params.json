@@ -3,5 +3,6 @@
   "description": "suggest using the rest parameters instead of `arguments`",
   "isRecommended": false,
   "isFixable": false,
-  "category": "ECMAScript 6"
+  "category": "ECMAScript 6",
+  "schema": []
 }

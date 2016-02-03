@@ -3,5 +3,20 @@
   "description": "specify the maximum number of statement allowed in a function",
   "isRecommended": false,
   "isFixable": false,
-  "category": "Stylistic Issues"
+  "category": "Stylistic Issues",
+  "schema": [
+    {
+      "type": "integer",
+      "minimum": 0
+    },
+    {
+      "type": "object",
+      "properties": {
+        "ignoreTopLevelFunctions": {
+          "type": "boolean"
+        }
+      },
+      "additionalProperties": false
+    }
+  ]
 }

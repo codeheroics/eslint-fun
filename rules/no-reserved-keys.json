@@ -3,5 +3,6 @@
   "description": "disallow reserved words being used as object literal keys",
   "isRecommended": false,
   "isFixable": false,
-  "category": "Removed"
+  "category": "Removed",
+  "schema": []
 }

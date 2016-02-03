@@ -3,5 +3,31 @@
   "description": "require or disallow spaces inside parentheses",
   "isRecommended": false,
   "isFixable": false,
-  "category": "Stylistic Issues"
+  "category": "Stylistic Issues",
+  "schema": [
+    {
+      "enum": [
+        "always",
+        "never"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "exceptions": {
+          "type": "array",
+          "items": {
+            "enum": [
+              "{}",
+              "[]",
+              "()",
+              "empty"
+            ]
+          },
+          "uniqueItems": true
+        }
+      },
+      "additionalProperties": false
+    }
+  ]
 }

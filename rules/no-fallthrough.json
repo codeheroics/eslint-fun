@@ -3,5 +3,6 @@
   "description": "disallow fallthrough of `case` statements",
   "isRecommended": true,
   "isFixable": false,
-  "category": "Best Practices"
+  "category": "Best Practices",
+  "schema": []
 }

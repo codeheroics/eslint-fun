@@ -3,5 +3,6 @@
   "description": "disallow overwriting functions written as function declarations",
   "isRecommended": true,
   "isFixable": false,
-  "category": "Possible Errors"
+  "category": "Possible Errors",
+  "schema": []
 }

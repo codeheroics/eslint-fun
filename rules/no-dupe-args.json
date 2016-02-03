@@ -3,5 +3,6 @@
   "description": "disallow duplicate arguments in functions",
   "isRecommended": true,
   "isFixable": false,
-  "category": "Possible Errors"
+  "category": "Possible Errors",
+  "schema": []
 }

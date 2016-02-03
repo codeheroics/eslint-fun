@@ -4,5 +4,6 @@
   "isRecommended": false,
   "isFixable": false,
   "category": "Removed",
+  "schema": [],
   "replacement": "no-empty-character-class"
 }

@@ -3,5 +3,6 @@
   "description": "suggest using the spread operator instead of `.apply()`.",
   "isRecommended": false,
   "isFixable": false,
-  "category": "ECMAScript 6"
+  "category": "ECMAScript 6",
+  "schema": []
 }

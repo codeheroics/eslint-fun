@@ -3,5 +3,40 @@
   "description": "Ensure JSDoc comments are valid",
   "isRecommended": false,
   "isFixable": false,
-  "category": "Possible Errors"
+  "category": "Possible Errors",
+  "schema": [
+    {
+      "type": "object",
+      "properties": {
+        "prefer": {
+          "type": "object",
+          "additionalProperties": {
+            "type": "string"
+          }
+        },
+        "preferType": {
+          "type": "object",
+          "additionalProperties": {
+            "type": "string"
+          }
+        },
+        "requireReturn": {
+          "type": "boolean"
+        },
+        "requireParamDescription": {
+          "type": "boolean"
+        },
+        "requireReturnDescription": {
+          "type": "boolean"
+        },
+        "matchDescription": {
+          "type": "string"
+        },
+        "requireReturnType": {
+          "type": "boolean"
+        }
+      },
+      "additionalProperties": false
+    }
+  ]
 }

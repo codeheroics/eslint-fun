@@ -3,5 +3,44 @@
   "description": "enforce or disallow variable initializations at definition",
   "isRecommended": false,
   "isFixable": false,
-  "category": "Variables"
+  "category": "Variables",
+  "schema": [
+    {
+      "anyOf": [
+        {
+          "type": "array",
+          "items": [
+            {
+              "enum": [
+                "always"
+              ]
+            }
+          ],
+          "minItems": 0,
+          "maxItems": 1
+        },
+        {
+          "type": "array",
+          "items": [
+            {
+              "enum": [
+                "never"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "ignoreForLoopInit": {
+                  "type": "boolean"
+                }
+              },
+              "additionalProperties": false
+            }
+          ],
+          "minItems": 0,
+          "maxItems": 2
+        }
+      ]
+    }
+  ]
 }

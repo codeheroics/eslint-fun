@@ -3,5 +3,83 @@
   "description": "enforce spacing between keys and values in object literal properties",
   "isRecommended": false,
   "isFixable": false,
-  "category": "Stylistic Issues"
+  "category": "Stylistic Issues",
+  "schema": [
+    {
+      "anyOf": [
+        {
+          "type": "object",
+          "properties": {
+            "align": {
+              "enum": [
+                "colon",
+                "value"
+              ]
+            },
+            "mode": {
+              "enum": [
+                "strict",
+                "minimum"
+              ]
+            },
+            "beforeColon": {
+              "type": "boolean"
+            },
+            "afterColon": {
+              "type": "boolean"
+            }
+          },
+          "additionalProperties": false
+        },
+        {
+          "type": "object",
+          "properties": {
+            "singleLine": {
+              "type": "object",
+              "properties": {
+                "mode": {
+                  "enum": [
+                    "strict",
+                    "minimum"
+                  ]
+                },
+                "beforeColon": {
+                  "type": "boolean"
+                },
+                "afterColon": {
+                  "type": "boolean"
+                }
+              },
+              "additionalProperties": false
+            },
+            "multiLine": {
+              "type": "object",
+              "properties": {
+                "align": {
+                  "enum": [
+                    "colon",
+                    "value"
+                  ]
+                },
+                "mode": {
+                  "enum": [
+                    "strict",
+                    "minimum"
+                  ]
+                },
+                "beforeColon": {
+                  "type": "boolean"
+                },
+                "afterColon": {
+                  "type": "boolean"
+                }
+              },
+              "additionalProperties": false
+            }
+          },
+          "additionalProperties": false
+        }
+      ]
+    }
+  ]
 }

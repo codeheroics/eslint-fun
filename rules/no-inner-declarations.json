@@ -3,5 +3,13 @@
   "description": "disallow function or variable declarations in nested blocks",
   "isRecommended": true,
   "isFixable": false,
-  "category": "Possible Errors"
+  "category": "Possible Errors",
+  "schema": [
+    {
+      "enum": [
+        "functions",
+        "both"
+      ]
+    }
+  ]
 }

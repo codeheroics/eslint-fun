@@ -3,5 +3,6 @@
   "description": "disallow comparisons with the value `NaN`",
   "isRecommended": true,
   "isFixable": false,
-  "category": "Possible Errors"
+  "category": "Possible Errors",
+  "schema": []
 }

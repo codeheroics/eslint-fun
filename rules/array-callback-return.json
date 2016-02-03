@@ -3,5 +3,6 @@
   "description": "Enforces return statements in callbacks of array's methods",
   "isRecommended": false,
   "isFixable": false,
-  "category": "Best Practices"
+  "category": "Best Practices",
+  "schema": []
 }

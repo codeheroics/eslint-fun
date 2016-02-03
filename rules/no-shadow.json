@@ -3,5 +3,29 @@
   "description": "disallow declaration of variables already declared in the outer scope",
   "isRecommended": false,
   "isFixable": false,
-  "category": "Variables"
+  "category": "Variables",
+  "schema": [
+    {
+      "type": "object",
+      "properties": {
+        "builtinGlobals": {
+          "type": "boolean"
+        },
+        "hoist": {
+          "enum": [
+            "all",
+            "functions",
+            "never"
+          ]
+        },
+        "allow": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      },
+      "additionalProperties": false
+    }
+  ]
 }

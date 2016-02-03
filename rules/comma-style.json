@@ -3,5 +3,25 @@
   "description": "enforce one true comma style",
   "isRecommended": false,
   "isFixable": false,
-  "category": "Stylistic Issues"
+  "category": "Stylistic Issues",
+  "schema": [
+    {
+      "enum": [
+        "first",
+        "last"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "exceptions": {
+          "type": "object",
+          "additionalProperties": {
+            "type": "boolean"
+          }
+        }
+      },
+      "additionalProperties": false
+    }
+  ]
 }

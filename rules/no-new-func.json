@@ -3,5 +3,6 @@
   "description": "disallow use of new operator for `Function` object",
   "isRecommended": false,
   "isFixable": false,
-  "category": "Best Practices"
+  "category": "Best Practices",
+  "schema": []
 }
