@@ -1,0 +1,7 @@
+{
+  "name": "semi",
+  "description": "require or disallow use of semicolons instead of ASI",
+  "isRecommended": false,
+  "isFixable": true,
+  "category": "Stylistic Issues"
+}

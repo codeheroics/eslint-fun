@@ -1,0 +1,7 @@
+{
+  "name": "no-new-func",
+  "description": "disallow use of new operator for `Function` object",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "Best Practices"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "curly",
+  "description": "specify curly brace conventions for all control statements",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "Best Practices"
+}

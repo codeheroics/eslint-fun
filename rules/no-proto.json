@@ -1,0 +1,7 @@
+{
+  "name": "no-proto",
+  "description": "disallow usage of `__proto__` property",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "Best Practices"
+}

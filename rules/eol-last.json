@@ -1,0 +1,7 @@
+{
+  "name": "eol-last",
+  "description": "enforce newline at the end of file, with no multiple empty lines",
+  "isRecommended": false,
+  "isFixable": true,
+  "category": "Stylistic Issues"
+}

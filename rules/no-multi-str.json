@@ -1,0 +1,7 @@
+{
+  "name": "no-multi-str",
+  "description": "disallow use of multiline strings",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "Best Practices"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "no-unreachable",
+  "description": "disallow unreachable statements after a return, throw, continue, or break statement",
+  "isRecommended": true,
+  "isFixable": false,
+  "category": "Possible Errors"
+}

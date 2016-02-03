@@ -1,0 +1,8 @@
+{
+  "name": "space-before-keywords",
+  "description": "require a space before certain keywords",
+  "isRecommended": false,
+  "isFixable": true,
+  "category": "Removed",
+  "replacement": "keyword-spacing"
+}

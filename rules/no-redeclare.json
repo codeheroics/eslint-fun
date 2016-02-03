@@ -1,0 +1,7 @@
+{
+  "name": "no-redeclare",
+  "description": "disallow declaring the same variable more than once",
+  "isRecommended": true,
+  "isFixable": false,
+  "category": "Best Practices"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "space-before-blocks",
+  "description": "require or disallow a space before blocks",
+  "isRecommended": false,
+  "isFixable": true,
+  "category": "Stylistic Issues"
+}

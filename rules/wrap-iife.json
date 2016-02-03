@@ -1,0 +1,7 @@
+{
+  "name": "wrap-iife",
+  "description": "require immediate function invocation to be wrapped in parentheses",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "Best Practices"
+}

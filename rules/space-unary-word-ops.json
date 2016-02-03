@@ -1,0 +1,8 @@
+{
+  "name": "space-unary-word-ops",
+  "description": "require or disallow spaces before/after unary operators",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "Removed",
+  "replacement": "space-unary-ops"
+}

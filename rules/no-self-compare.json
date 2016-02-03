@@ -1,0 +1,7 @@
+{
+  "name": "no-self-compare",
+  "description": "disallow comparisons where both sides are exactly the same",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "Best Practices"
+}

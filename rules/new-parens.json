@@ -1,0 +1,7 @@
+{
+  "name": "new-parens",
+  "description": "disallow the omission of parentheses when invoking a constructor with no arguments",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "Stylistic Issues"
+}

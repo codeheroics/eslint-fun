@@ -1,0 +1,7 @@
+{
+  "name": "func-names",
+  "description": "require function expressions to have a name",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "Stylistic Issues"
+}

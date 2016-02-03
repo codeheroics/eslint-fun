@@ -1,0 +1,7 @@
+{
+  "name": "no-plusplus",
+  "description": "disallow use of unary operators, `++` and `--`",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "Stylistic Issues"
+}

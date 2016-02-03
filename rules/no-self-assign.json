@@ -1,0 +1,7 @@
+{
+  "name": "no-self-assign",
+  "description": "disallow assignments where both sides are exactly the same",
+  "isRecommended": true,
+  "isFixable": false,
+  "category": "Best Practices"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "no-implicit-coercion",
+  "description": "disallow the type conversions with shorter notations",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "Best Practices"
+}

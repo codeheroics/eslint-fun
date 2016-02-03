@@ -1,0 +1,7 @@
+{
+  "name": "no-underscore-dangle",
+  "description": "disallow dangling underscores in identifiers",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "Stylistic Issues"
+}

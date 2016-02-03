@@ -1,0 +1,7 @@
+{
+  "name": "no-void",
+  "description": "disallow use of the `void` operator",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "Best Practices"
+}

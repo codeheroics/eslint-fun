@@ -1,0 +1,7 @@
+{
+  "name": "wrap-regex",
+  "description": "require regex literals to be wrapped in parentheses",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "Stylistic Issues"
+}

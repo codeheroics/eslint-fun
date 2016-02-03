@@ -1,0 +1,7 @@
+{
+  "name": "space-infix-ops",
+  "description": "require spaces around operators",
+  "isRecommended": false,
+  "isFixable": true,
+  "category": "Stylistic Issues"
+}

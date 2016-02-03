@@ -1,0 +1,7 @@
+{
+  "name": "valid-jsdoc",
+  "description": "Ensure JSDoc comments are valid",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "Possible Errors"
+}

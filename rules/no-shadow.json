@@ -1,0 +1,7 @@
+{
+  "name": "no-shadow",
+  "description": "disallow declaration of variables already declared in the outer scope",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "Variables"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "strict",
+  "description": "require effective use of strict mode directives",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "Strict Mode"
+}

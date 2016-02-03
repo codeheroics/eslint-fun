@@ -1,0 +1,7 @@
+{
+  "name": "no-new-wrappers",
+  "description": "disallows creating new instances of `String`,`Number`, and `Boolean`",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "Best Practices"
+}

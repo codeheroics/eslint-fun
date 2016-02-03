@@ -1,0 +1,7 @@
+{
+  "name": "init-declarations",
+  "description": "enforce or disallow variable initializations at definition",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "Variables"
+}

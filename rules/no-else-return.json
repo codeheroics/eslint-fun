@@ -1,0 +1,7 @@
+{
+  "name": "no-else-return",
+  "description": "disallow `else` after a `return` in an `if`",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "Best Practices"
+}

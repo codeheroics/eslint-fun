@@ -1,0 +1,8 @@
+{
+  "name": "no-empty-label",
+  "description": "disallow use of labels for anything other than loops and switches",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "Removed",
+  "replacement": "no-labels"
+}

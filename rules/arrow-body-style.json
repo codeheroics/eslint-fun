@@ -1,0 +1,7 @@
+{
+  "name": "arrow-body-style",
+  "description": "require braces in arrow function body",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "ECMAScript 6"
+}

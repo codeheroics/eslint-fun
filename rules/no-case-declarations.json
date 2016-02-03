@@ -1,0 +1,7 @@
+{
+  "name": "no-case-declarations",
+  "description": "disallow lexical declarations in case clauses",
+  "isRecommended": true,
+  "isFixable": false,
+  "category": "Best Practices"
+}

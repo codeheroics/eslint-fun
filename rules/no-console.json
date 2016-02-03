@@ -1,0 +1,7 @@
+{
+  "name": "no-console",
+  "description": "disallow use of `console`",
+  "isRecommended": true,
+  "isFixable": false,
+  "category": "Possible Errors"
+}

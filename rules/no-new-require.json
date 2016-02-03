@@ -1,0 +1,7 @@
+{
+  "name": "no-new-require",
+  "description": "disallow use of `new` operator with the `require` function",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "Node.js and CommonJS"
+}

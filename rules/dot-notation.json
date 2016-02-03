@@ -1,0 +1,7 @@
+{
+  "name": "dot-notation",
+  "description": "encourages use of dot notation whenever possible",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "Best Practices"
+}

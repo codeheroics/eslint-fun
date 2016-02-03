@@ -1,0 +1,7 @@
+{
+  "name": "id-match",
+  "description": "require identifiers to match the provided regular expression",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "Stylistic Issues"
+}

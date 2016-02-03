@@ -1,0 +1,7 @@
+{
+  "name": "no-empty-pattern",
+  "description": "disallow use of empty destructuring patterns",
+  "isRecommended": true,
+  "isFixable": false,
+  "category": "Best Practices"
+}

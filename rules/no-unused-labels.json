@@ -1,0 +1,7 @@
+{
+  "name": "no-unused-labels",
+  "description": "disallow unused labels",
+  "isRecommended": true,
+  "isFixable": false,
+  "category": "Best Practices"
+}

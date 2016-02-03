@@ -1,0 +1,7 @@
+{
+  "name": "no-new-symbol",
+  "description": "disallow use of the `new` operator with the `Symbol` object",
+  "isRecommended": true,
+  "isFixable": false,
+  "category": "ECMAScript 6"
+}

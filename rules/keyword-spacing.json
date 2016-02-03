@@ -1,0 +1,7 @@
+{
+  "name": "keyword-spacing",
+  "description": "enforce spacing before and after keywords",
+  "isRecommended": false,
+  "isFixable": true,
+  "category": "Stylistic Issues"
+}

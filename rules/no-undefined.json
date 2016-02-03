@@ -1,0 +1,7 @@
+{
+  "name": "no-undefined",
+  "description": "disallow use of `undefined` variable",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "Variables"
+}

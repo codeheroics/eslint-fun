@@ -1,0 +1,7 @@
+{
+  "name": "operator-assignment",
+  "description": "require assignment operator shorthand where possible or prohibit it entirely",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "Stylistic Issues"
+}

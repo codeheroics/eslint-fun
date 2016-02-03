@@ -1,0 +1,8 @@
+{
+  "name": "space-before-function-parentheses",
+  "description": "require or disallow space before function parentheses",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "Removed",
+  "replacement": "space-before-function-paren"
+}

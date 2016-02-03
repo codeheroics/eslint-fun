@@ -1,0 +1,7 @@
+{
+  "name": "accessor-pairs",
+  "description": "Enforces getter/setter pairs in objects",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "Best Practices"
+}

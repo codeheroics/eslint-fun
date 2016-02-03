@@ -1,0 +1,7 @@
+{
+  "name": "func-style",
+  "description": "enforce use of function declarations or expressions",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "Stylistic Issues"
+}

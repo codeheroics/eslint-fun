@@ -1,0 +1,8 @@
+{
+  "name": "generator-star",
+  "description": "enforce the position of the `*` in generator functions",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "Removed",
+  "replacement": "generator-star-spacing"
+}

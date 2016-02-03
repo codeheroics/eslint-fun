@@ -1,0 +1,7 @@
+{
+  "name": "no-delete-var",
+  "description": "disallow deletion of variables",
+  "isRecommended": true,
+  "isFixable": false,
+  "category": "Variables"
+}

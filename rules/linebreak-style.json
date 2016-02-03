@@ -1,0 +1,7 @@
+{
+  "name": "linebreak-style",
+  "description": "disallow mixed 'LF' and 'CRLF' as linebreaks",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "Stylistic Issues"
+}

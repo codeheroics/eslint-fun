@@ -1,0 +1,7 @@
+{
+  "name": "no-warning-comments",
+  "description": "disallow usage of configurable warning terms in comments - e.g. `TODO` or `FIXME`",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "Best Practices"
+}

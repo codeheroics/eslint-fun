@@ -1,0 +1,7 @@
+{
+  "name": "guard-for-in",
+  "description": "make sure `for-in` loops have an `if` statement",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "Best Practices"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "default-case",
+  "description": "require `default` case in `switch` statements",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "Best Practices"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "max-params",
+  "description": "limits the number of parameters that can be used in the function declaration.",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "Stylistic Issues"
+}

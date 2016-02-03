@@ -1,0 +1,7 @@
+{
+  "name": "comma-style",
+  "description": "enforce one true comma style",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "Stylistic Issues"
+}

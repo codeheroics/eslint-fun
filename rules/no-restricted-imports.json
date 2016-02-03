@@ -1,0 +1,7 @@
+{
+  "name": "no-restricted-imports",
+  "description": "restrict usage of specified node imports",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "Node.js and CommonJS"
+}

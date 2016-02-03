@@ -1,0 +1,7 @@
+{
+  "name": "no-param-reassign",
+  "description": "disallow reassignment of function parameters",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "Best Practices"
+}

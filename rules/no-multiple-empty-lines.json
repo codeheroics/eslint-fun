@@ -1,0 +1,7 @@
+{
+  "name": "no-multiple-empty-lines",
+  "description": "disallow multiple empty lines",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "Stylistic Issues"
+}

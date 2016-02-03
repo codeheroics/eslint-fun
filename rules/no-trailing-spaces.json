@@ -1,0 +1,7 @@
+{
+  "name": "no-trailing-spaces",
+  "description": "disallow trailing whitespace at the end of lines",
+  "isRecommended": false,
+  "isFixable": true,
+  "category": "Stylistic Issues"
+}

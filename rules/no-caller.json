@@ -1,0 +1,7 @@
+{
+  "name": "no-caller",
+  "description": "disallow use of `arguments.caller` or `arguments.callee`",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "Best Practices"
+}

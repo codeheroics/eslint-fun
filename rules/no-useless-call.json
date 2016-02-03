@@ -1,0 +1,7 @@
+{
+  "name": "no-useless-call",
+  "description": "disallow unnecessary `.call()` and `.apply()`",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "Best Practices"
+}

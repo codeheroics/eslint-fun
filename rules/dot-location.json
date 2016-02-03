@@ -1,0 +1,7 @@
+{
+  "name": "dot-location",
+  "description": "enforces consistent newlines before or after dots",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "Best Practices"
+}

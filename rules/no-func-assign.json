@@ -1,0 +1,7 @@
+{
+  "name": "no-func-assign",
+  "description": "disallow overwriting functions written as function declarations",
+  "isRecommended": true,
+  "isFixable": false,
+  "category": "Possible Errors"
+}

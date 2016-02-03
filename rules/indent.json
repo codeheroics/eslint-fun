@@ -1,0 +1,7 @@
+{
+  "name": "indent",
+  "description": "specify tab or space width for your code",
+  "isRecommended": false,
+  "isFixable": true,
+  "category": "Stylistic Issues"
+}

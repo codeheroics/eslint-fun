@@ -1,0 +1,7 @@
+{
+  "name": "new-cap",
+  "description": "require a capital letter for constructors",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "Stylistic Issues"
+}

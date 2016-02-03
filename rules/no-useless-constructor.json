@@ -1,0 +1,7 @@
+{
+  "name": "no-useless-constructor",
+  "description": "disallow unnecessary constructor",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "ECMAScript 6"
+}

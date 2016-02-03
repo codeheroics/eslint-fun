@@ -1,0 +1,7 @@
+{
+  "name": "array-bracket-spacing",
+  "description": "enforce spacing inside array brackets",
+  "isRecommended": false,
+  "isFixable": true,
+  "category": "Stylistic Issues"
+}

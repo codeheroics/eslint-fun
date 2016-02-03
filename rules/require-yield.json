@@ -1,0 +1,7 @@
+{
+  "name": "require-yield",
+  "description": "disallow generator functions that do not have `yield`",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "ECMAScript 6"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "key-spacing",
+  "description": "enforce spacing between keys and values in object literal properties",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "Stylistic Issues"
+}

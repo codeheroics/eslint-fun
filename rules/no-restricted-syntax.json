@@ -1,0 +1,7 @@
+{
+  "name": "no-restricted-syntax",
+  "description": "disallow use of certain syntax in code",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "Stylistic Issues"
+}

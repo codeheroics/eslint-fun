@@ -1,0 +1,7 @@
+{
+  "name": "no-use-before-define",
+  "description": "disallow use of variables before they are defined",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "Variables"
+}

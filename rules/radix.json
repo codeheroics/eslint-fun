@@ -1,0 +1,7 @@
+{
+  "name": "radix",
+  "description": "require use of the second argument for `parseInt()`",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "Best Practices"
+}

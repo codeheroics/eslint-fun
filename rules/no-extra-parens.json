@@ -1,0 +1,7 @@
+{
+  "name": "no-extra-parens",
+  "description": "disallow unnecessary parentheses",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "Possible Errors"
+}

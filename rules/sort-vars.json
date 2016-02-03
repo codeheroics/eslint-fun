@@ -1,0 +1,7 @@
+{
+  "name": "sort-vars",
+  "description": "sort variables within the same declaration block",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "Stylistic Issues"
+}

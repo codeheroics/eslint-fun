@@ -1,0 +1,7 @@
+{
+  "name": "no-lone-blocks",
+  "description": "disallow unnecessary nested blocks",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "Best Practices"
+}

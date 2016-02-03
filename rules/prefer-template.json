@@ -1,0 +1,7 @@
+{
+  "name": "prefer-template",
+  "description": "suggest using template literals instead of strings concatenation",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "ECMAScript 6"
+}

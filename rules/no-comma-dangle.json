@@ -1,0 +1,8 @@
+{
+  "name": "no-comma-dangle",
+  "description": "disallow trailing commas in object literals",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "Removed",
+  "replacement": "comma-dangle"
+}

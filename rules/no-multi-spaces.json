@@ -1,0 +1,7 @@
+{
+  "name": "no-multi-spaces",
+  "description": "disallow use of multiple spaces",
+  "isRecommended": false,
+  "isFixable": true,
+  "category": "Best Practices"
+}

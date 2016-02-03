@@ -1,0 +1,7 @@
+{
+  "name": "no-dupe-keys",
+  "description": "disallow duplicate keys when creating object literals",
+  "isRecommended": true,
+  "isFixable": false,
+  "category": "Possible Errors"
+}

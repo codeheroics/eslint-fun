@@ -1,0 +1,7 @@
+{
+  "name": "max-len",
+  "description": "specify the maximum length of a line in your program",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "Stylistic Issues"
+}

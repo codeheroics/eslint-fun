@@ -1,0 +1,7 @@
+{
+  "name": "newline-per-chained-call",
+  "description": "enforce newline after each call when chaining the calls",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "Stylistic Issues"
+}

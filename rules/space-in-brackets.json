@@ -1,0 +1,8 @@
+{
+  "name": "space-in-brackets",
+  "description": "require or disallow spaces inside brackets",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "Removed",
+  "replacement": "object-curly-spacing](object-curly-spacing.md) and [array-bracket-spacing"
+}

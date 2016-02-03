@@ -1,0 +1,7 @@
+{
+  "name": "no-control-regex",
+  "description": "disallow control characters in regular expressions",
+  "isRecommended": true,
+  "isFixable": false,
+  "category": "Possible Errors"
+}

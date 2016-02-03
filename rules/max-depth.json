@@ -1,0 +1,7 @@
+{
+  "name": "max-depth",
+  "description": "specify the maximum depth that blocks can be nested",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "Stylistic Issues"
+}

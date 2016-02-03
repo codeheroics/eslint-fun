@@ -1,0 +1,7 @@
+{
+  "name": "generator-star-spacing",
+  "description": "enforce spacing around the `*` in generator functions",
+  "isRecommended": false,
+  "isFixable": true,
+  "category": "ECMAScript 6"
+}

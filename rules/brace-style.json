@@ -1,0 +1,7 @@
+{
+  "name": "brace-style",
+  "description": "enforce one true brace style",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "Stylistic Issues"
+}

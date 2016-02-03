@@ -1,0 +1,7 @@
+{
+  "name": "yoda",
+  "description": "require or disallow Yoda conditions",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "Best Practices"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "no-implied-eval",
+  "description": "disallow use of `eval()`-like methods",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "Best Practices"
+}

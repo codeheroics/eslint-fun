@@ -1,0 +1,7 @@
+{
+  "name": "complexity",
+  "description": "specify the maximum cyclomatic complexity allowed in a program",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "Best Practices"
+}

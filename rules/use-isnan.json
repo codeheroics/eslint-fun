@@ -1,0 +1,7 @@
+{
+  "name": "use-isnan",
+  "description": "disallow comparisons with the value `NaN`",
+  "isRecommended": true,
+  "isFixable": false,
+  "category": "Possible Errors"
+}

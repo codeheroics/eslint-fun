@@ -1,0 +1,7 @@
+{
+  "name": "semi-spacing",
+  "description": "enforce spacing before and after semicolons",
+  "isRecommended": false,
+  "isFixable": true,
+  "category": "Stylistic Issues"
+}

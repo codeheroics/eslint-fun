@@ -1,0 +1,7 @@
+{
+  "name": "require-jsdoc",
+  "description": "Require JSDoc comment",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "Stylistic Issues"
+}

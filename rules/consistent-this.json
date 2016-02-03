@@ -1,0 +1,7 @@
+{
+  "name": "consistent-this",
+  "description": "enforce consistent naming when capturing the current execution context",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "Stylistic Issues"
+}

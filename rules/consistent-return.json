@@ -1,0 +1,7 @@
+{
+  "name": "consistent-return",
+  "description": "require `return` statements to either always or never specify values",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "Best Practices"
+}

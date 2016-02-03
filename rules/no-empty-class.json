@@ -1,0 +1,8 @@
+{
+  "name": "no-empty-class",
+  "description": "disallow the use of empty character classes in regular expressions",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "Removed",
+  "replacement": "no-empty-character-class"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "no-process-exit",
+  "description": "disallow `process.exit()`",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "Node.js and CommonJS"
+}

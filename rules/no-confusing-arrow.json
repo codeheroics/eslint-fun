@@ -1,0 +1,7 @@
+{
+  "name": "no-confusing-arrow",
+  "description": "disallow arrow functions where they could be confused with comparisons",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "ECMAScript 6"
+}

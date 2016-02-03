@@ -1,0 +1,7 @@
+{
+  "name": "camelcase",
+  "description": "require camel case names",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "Stylistic Issues"
+}

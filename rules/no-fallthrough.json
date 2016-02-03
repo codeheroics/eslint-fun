@@ -1,0 +1,7 @@
+{
+  "name": "no-fallthrough",
+  "description": "disallow fallthrough of `case` statements",
+  "isRecommended": true,
+  "isFixable": false,
+  "category": "Best Practices"
+}

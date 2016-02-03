@@ -1,0 +1,7 @@
+{
+  "name": "no-alert",
+  "description": "disallow the use of `alert`, `confirm`, and `prompt`",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "Best Practices"
+}

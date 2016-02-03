@@ -1,0 +1,7 @@
+{
+  "name": "no-cond-assign",
+  "description": "disallow assignment in conditional expressions",
+  "isRecommended": true,
+  "isFixable": false,
+  "category": "Possible Errors"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "space-return-throw-case",
+  "description": "require a space after `return`, `throw`, and `case`",
+  "isRecommended": false,
+  "isFixable": true,
+  "category": "Removed",
+  "replacement": "keyword-spacing"
+}

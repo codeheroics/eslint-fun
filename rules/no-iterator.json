@@ -1,0 +1,7 @@
+{
+  "name": "no-iterator",
+  "description": "disallow usage of `__iterator__` property",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "Best Practices"
+}

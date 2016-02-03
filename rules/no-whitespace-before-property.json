@@ -1,0 +1,7 @@
+{
+  "name": "no-whitespace-before-property",
+  "description": "disallow whitespace before properties",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "Stylistic Issues"
+}

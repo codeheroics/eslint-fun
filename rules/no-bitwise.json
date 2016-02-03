@@ -1,0 +1,7 @@
+{
+  "name": "no-bitwise",
+  "description": "disallow use of bitwise operators",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "Stylistic Issues"
+}

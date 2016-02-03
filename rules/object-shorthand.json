@@ -1,0 +1,7 @@
+{
+  "name": "object-shorthand",
+  "description": "require method and property shorthand syntax for object literals",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "ECMAScript 6"
+}

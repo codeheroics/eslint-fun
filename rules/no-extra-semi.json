@@ -1,0 +1,7 @@
+{
+  "name": "no-extra-semi",
+  "description": "disallow unnecessary semicolons",
+  "isRecommended": true,
+  "isFixable": true,
+  "category": "Possible Errors"
+}

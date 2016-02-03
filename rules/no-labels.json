@@ -1,0 +1,7 @@
+{
+  "name": "no-labels",
+  "description": "disallow use of labeled statements",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "Best Practices"
+}

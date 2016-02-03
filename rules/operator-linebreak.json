@@ -1,0 +1,7 @@
+{
+  "name": "operator-linebreak",
+  "description": "enforce operators to be placed before or after line breaks",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "Stylistic Issues"
+}

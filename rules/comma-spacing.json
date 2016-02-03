@@ -1,0 +1,7 @@
+{
+  "name": "comma-spacing",
+  "description": "enforce spacing before and after comma",
+  "isRecommended": false,
+  "isFixable": true,
+  "category": "Stylistic Issues"
+}

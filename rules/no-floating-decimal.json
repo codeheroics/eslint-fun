@@ -1,0 +1,7 @@
+{
+  "name": "no-floating-decimal",
+  "description": "disallow the use of leading or trailing decimal points in numeric literals",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "Best Practices"
+}

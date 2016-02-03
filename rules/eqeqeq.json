@@ -1,0 +1,7 @@
+{
+  "name": "eqeqeq",
+  "description": "require the use of `===` and `!==`",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "Best Practices"
+}

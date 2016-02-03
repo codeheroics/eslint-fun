@@ -1,0 +1,7 @@
+{
+  "name": "yield-star-spacing",
+  "description": "enforce spacing around the `*` in `yield*` expressions",
+  "isRecommended": false,
+  "isFixable": true,
+  "category": "ECMAScript 6"
+}

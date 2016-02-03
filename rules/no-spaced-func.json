@@ -1,0 +1,7 @@
+{
+  "name": "no-spaced-func",
+  "description": "disallow space between function identifier and application",
+  "isRecommended": false,
+  "isFixable": true,
+  "category": "Stylistic Issues"
+}

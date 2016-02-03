@@ -1,0 +1,8 @@
+{
+  "name": "no-arrow-condition",
+  "description": "disallow arrow functions where a condition is expected",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "Removed",
+  "replacement": "no-confusing-arrow](no-confusing-arrow.md) and [no-constant-condition"
+}

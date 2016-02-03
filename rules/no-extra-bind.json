@@ -1,0 +1,7 @@
+{
+  "name": "no-extra-bind",
+  "description": "disallow unnecessary function binding",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "Best Practices"
+}

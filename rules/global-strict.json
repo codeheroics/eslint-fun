@@ -1,0 +1,8 @@
+{
+  "name": "global-strict",
+  "description": "require or disallow the `\"use strict\"` pragma in the global scope",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "Removed",
+  "replacement": "strict"
+}

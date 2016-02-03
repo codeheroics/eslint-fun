@@ -1,0 +1,7 @@
+{
+  "name": "no-useless-concat",
+  "description": "disallow unnecessary concatenation of literals or template literals",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "Best Practices"
+}

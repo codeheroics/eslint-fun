@@ -1,0 +1,7 @@
+{
+  "name": "no-mixed-requires",
+  "description": "disallow mixing regular variable and require declarations",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "Node.js and CommonJS"
+}

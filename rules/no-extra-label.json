@@ -1,0 +1,7 @@
+{
+  "name": "no-extra-label",
+  "description": "disallow unnecessary labels",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "Best Practices"
+}

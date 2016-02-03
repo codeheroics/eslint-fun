@@ -1,0 +1,8 @@
+{
+  "name": "space-after-function-name",
+  "description": "require a space after function names",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "Removed",
+  "replacement": "space-before-function-paren"
+}

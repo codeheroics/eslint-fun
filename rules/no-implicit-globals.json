@@ -1,0 +1,7 @@
+{
+  "name": "no-implicit-globals",
+  "description": "disallow `var` and named functions in global scope",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "Best Practices"
+}

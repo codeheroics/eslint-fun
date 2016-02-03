@@ -1,0 +1,8 @@
+{
+  "name": "no-extra-strict",
+  "description": "disallow unnecessary use of `\"use strict\";` when already in strict mode",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "Removed",
+  "replacement": "strict"
+}

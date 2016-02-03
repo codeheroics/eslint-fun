@@ -1,0 +1,7 @@
+{
+  "name": "no-unmodified-loop-condition",
+  "description": "disallow unmodified conditions of loops",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "Best Practices"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "space-unary-ops",
+  "description": "require or disallow spaces before/after unary operators",
+  "isRecommended": false,
+  "isFixable": true,
+  "category": "Stylistic Issues"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "no-label-var",
+  "description": "disallow labels that share a name with a variable",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "Variables"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "callback-return",
+  "description": "enforce `return` after a callback",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "Node.js and CommonJS"
+}

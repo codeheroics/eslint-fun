@@ -1,0 +1,7 @@
+{
+  "name": "no-nested-ternary",
+  "description": "disallow nested ternary expressions",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "Stylistic Issues"
+}

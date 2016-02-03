@@ -1,0 +1,7 @@
+{
+  "name": "lines-around-comment",
+  "description": "enforce empty lines around comments",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "Stylistic Issues"
+}

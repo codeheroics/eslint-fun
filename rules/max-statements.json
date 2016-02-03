@@ -1,0 +1,7 @@
+{
+  "name": "max-statements",
+  "description": "specify the maximum number of statement allowed in a function",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "Stylistic Issues"
+}

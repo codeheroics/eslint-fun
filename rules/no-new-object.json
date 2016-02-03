@@ -1,0 +1,7 @@
+{
+  "name": "no-new-object",
+  "description": "disallow the use of the `Object` constructor",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "Stylistic Issues"
+}

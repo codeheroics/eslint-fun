@@ -1,0 +1,7 @@
+{
+  "name": "spaced-comment",
+  "description": "require or disallow a space immediately following the `//` or `/*` in a comment",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "Stylistic Issues"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "arrow-parens",
+  "description": "require parens in arrow function arguments",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "ECMAScript 6"
+}

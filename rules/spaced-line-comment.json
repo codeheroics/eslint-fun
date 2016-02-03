@@ -1,0 +1,8 @@
+{
+  "name": "spaced-line-comment",
+  "description": "require or disallow a space immediately following the `//` in a line comment",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "Removed",
+  "replacement": "spaced-comment"
+}

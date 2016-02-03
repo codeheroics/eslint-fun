@@ -1,0 +1,7 @@
+{
+  "name": "no-eval",
+  "description": "disallow use of `eval()`",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "Best Practices"
+}

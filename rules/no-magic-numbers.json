@@ -1,0 +1,7 @@
+{
+  "name": "no-magic-numbers",
+  "description": "disallow the use of magic numbers",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "Best Practices"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "no-negated-condition",
+  "description": "disallow negated conditions",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "Stylistic Issues"
+}

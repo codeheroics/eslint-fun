@@ -1,0 +1,7 @@
+{
+  "name": "no-unused-expressions",
+  "description": "disallow usage of expressions in statement position",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "Best Practices"
+}

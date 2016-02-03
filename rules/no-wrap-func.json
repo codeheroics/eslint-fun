@@ -1,0 +1,8 @@
+{
+  "name": "no-wrap-func",
+  "description": "disallow wrapping of non-IIFE statements in parens",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "Removed",
+  "replacement": "no-extra-parens"
+}

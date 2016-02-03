@@ -1,0 +1,7 @@
+{
+  "name": "no-restricted-modules",
+  "description": "restrict usage of specified node modules",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "Node.js and CommonJS"
+}

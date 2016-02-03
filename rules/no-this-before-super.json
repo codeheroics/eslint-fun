@@ -1,0 +1,7 @@
+{
+  "name": "no-this-before-super",
+  "description": "disallow use of `this`/`super` before calling `super()` in constructors",
+  "isRecommended": true,
+  "isFixable": false,
+  "category": "ECMAScript 6"
+}

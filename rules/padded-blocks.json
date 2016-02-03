@@ -1,0 +1,7 @@
+{
+  "name": "padded-blocks",
+  "description": "enforce padding within blocks",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "Stylistic Issues"
+}

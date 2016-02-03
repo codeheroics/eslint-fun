@@ -1,0 +1,7 @@
+{
+  "name": "no-unused-vars",
+  "description": "disallow declaration of variables that are not used in the code",
+  "isRecommended": true,
+  "isFixable": false,
+  "category": "Variables"
+}

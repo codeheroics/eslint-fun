@@ -1,0 +1,8 @@
+{
+  "name": "no-space-before-semi",
+  "description": "disallow space before semicolon",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "Removed",
+  "replacement": "semi-spacing"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "arrow-spacing",
+  "description": "require space before/after arrow function's arrow",
+  "isRecommended": false,
+  "isFixable": true,
+  "category": "ECMAScript 6"
+}

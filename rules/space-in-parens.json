@@ -1,0 +1,7 @@
+{
+  "name": "space-in-parens",
+  "description": "require or disallow spaces inside parentheses",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "Stylistic Issues"
+}

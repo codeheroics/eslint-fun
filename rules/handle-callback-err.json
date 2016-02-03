@@ -1,0 +1,7 @@
+{
+  "name": "handle-callback-err",
+  "description": "enforce error handling in callbacks",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "Node.js and CommonJS"
+}

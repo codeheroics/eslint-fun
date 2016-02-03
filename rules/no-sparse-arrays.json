@@ -1,0 +1,7 @@
+{
+  "name": "no-sparse-arrays",
+  "description": "disallow sparse arrays",
+  "isRecommended": true,
+  "isFixable": false,
+  "category": "Possible Errors"
+}

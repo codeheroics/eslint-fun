@@ -1,0 +1,7 @@
+{
+  "name": "id-blacklist",
+  "description": "blacklist certain identifiers to prevent them being used",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "Stylistic Issues"
+}

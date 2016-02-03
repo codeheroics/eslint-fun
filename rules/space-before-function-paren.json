@@ -1,0 +1,7 @@
+{
+  "name": "space-before-function-paren",
+  "description": "require or disallow a space before function opening parenthesis",
+  "isRecommended": false,
+  "isFixable": true,
+  "category": "Stylistic Issues"
+}

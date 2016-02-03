@@ -1,0 +1,7 @@
+{
+  "name": "sort-imports",
+  "description": "sort import declarations within module",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "Stylistic Issues"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "no-undef",
+  "description": "disallow use of undeclared variables unless mentioned in a `/*global */` block",
+  "isRecommended": true,
+  "isFixable": false,
+  "category": "Variables"
+}

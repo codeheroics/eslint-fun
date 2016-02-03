@@ -1,0 +1,7 @@
+{
+  "name": "quote-props",
+  "description": "require quotes around object literal property names",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "Stylistic Issues"
+}

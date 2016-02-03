@@ -1,0 +1,7 @@
+{
+  "name": "no-native-reassign",
+  "description": "disallow reassignments of native objects",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "Best Practices"
+}

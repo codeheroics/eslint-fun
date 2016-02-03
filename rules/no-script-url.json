@@ -1,0 +1,7 @@
+{
+  "name": "no-script-url",
+  "description": "disallow use of `javascript:` urls.",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "Best Practices"
+}

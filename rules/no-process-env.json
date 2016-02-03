@@ -1,0 +1,7 @@
+{
+  "name": "no-process-env",
+  "description": "disallow use of `process.env`",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "Best Practices"
+}

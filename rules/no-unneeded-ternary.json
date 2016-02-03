@@ -1,0 +1,7 @@
+{
+  "name": "no-unneeded-ternary",
+  "description": "disallow the use of ternary operators when a simpler alternative exists",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "Stylistic Issues"
+}

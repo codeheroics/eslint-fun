@@ -1,0 +1,7 @@
+{
+  "name": "no-mixed-spaces-and-tabs",
+  "description": "disallow mixed spaces and tabs for indentation",
+  "isRecommended": true,
+  "isFixable": false,
+  "category": "Stylistic Issues"
+}

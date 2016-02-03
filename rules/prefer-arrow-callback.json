@@ -1,0 +1,7 @@
+{
+  "name": "prefer-arrow-callback",
+  "description": "suggest using arrow functions as callbacks",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "ECMAScript 6"
+}

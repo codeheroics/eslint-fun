@@ -1,0 +1,7 @@
+{
+  "name": "no-loop-func",
+  "description": "disallow creation of functions within loops",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "Best Practices"
+}

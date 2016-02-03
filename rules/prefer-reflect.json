@@ -1,0 +1,7 @@
+{
+  "name": "prefer-reflect",
+  "description": "suggest using Reflect methods where applicable",
+  "isRecommended": false,
+  "isFixable": false,
+  "category": "ECMAScript 6"
+}
