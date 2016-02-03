@@ -1,0 +1,14 @@
+{
+  "name": "eslint-fun",
+  "version": "1.0.0",
+  "description": "",
+  "main": "json-rules-builder.js",
+  "author": "Hugo Agbonon",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.69.0"
+  },
+  "devDependencies": {
+    "eslint": "^1.10.3"
+  }
+}
