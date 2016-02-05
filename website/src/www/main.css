@@ -1,0 +1,33 @@
+html {
+  font-family: 'Roboto', sans-serif;
+}
+
+body {
+  font-size: 13px;
+  line-height: 20px;
+}
+
+h2 {
+  text-align: center;
+}
+
+table {
+  text-align: center;
+  margin: auto;
+}
+
+th {
+  cursor: pointer;
+}
+
+tr:nth-child(2n) {
+  background-color: #eee;
+}
+
+tr:hover {
+  background-color: #ddd;
+}
+
+td {
+  padding: 1em;
+}
